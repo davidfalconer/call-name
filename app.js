@@ -1,7 +1,7 @@
 // return David Falconer
 
-let name="David Falconer";
-let lastName="Falconer";
+var name="David Falconer";
+var lastName="Falconer";
 
 function callName(){
 
