@@ -1,0 +1,19 @@
+{
+  "name": "call-name",
+  "version": "1.0.0",
+  "description": "This module returns either my full name or just last name.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfalconer/call-name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidfalconer/call-name/issues"
+  },
+  "homepage": "https://github.com/davidfalconer/call-name"
+}
