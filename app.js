@@ -1,7 +1,7 @@
-// return David Falconer
+"use strict";
 
-var name="David Falconer";
-var lastName="Falconer";
+let name="David Falconer";
+let lastName="Falconer";
 
 function callName(){
 
@@ -13,8 +13,14 @@ function callLastName(){
 	return lastName;
 }
 
+function story(data){
+
+	return data + "went to the shops";
+}
+
 module.exports = {
 	callName,
-	callLastName
+	callLastName,
+	story
 }
 
