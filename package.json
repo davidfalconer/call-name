@@ -1,6 +1,6 @@
 {
   "name": "call-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module returns either my full name or just last name.",
   "main": "app.js",
   "scripts": {
